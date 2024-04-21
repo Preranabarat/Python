@@ -1,0 +1,9 @@
+#funtion define 
+def calc_sum(a,b):
+    sum=a+b
+    print(sum)
+    return sum
+calc_sum(5,10)#funtion call : and argumnent
+calc_sum(2,10)
+calc_sum(51,10)
+calc_sum(17,14)
