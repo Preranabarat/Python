@@ -6,7 +6,7 @@ def missingkey(duic,keys):
             return False
 
 dict = {1:"mew mew",2:"Prerana"}
-iskey = missingkey(dict,3)
+iskey = missingkey(dict,1)
 if iskey:
     print("key is persent")
 else:

@@ -7,7 +7,7 @@ def custom_sort_string(order, s):
     
     return ''.join(sorted_s)
 
-order = "cba"
+order = "abc"
 s = "abcdabc"
 
 sorted_string = custom_sort_string(order, s)
